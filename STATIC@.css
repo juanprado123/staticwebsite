@@ -1,0 +1,152 @@
+body {
+background-image: url("http://www.mrwallpaper.com/wallpapers/gradient-background.jpg");  ;
+}
+ 
+h1 {
+margin-left: -300px;
+}
+
+h2 {
+text-align: center;
+font-style: italic;
+}
+
+a: {
+margin-bottom: 50px;
+margin-top: 50px;
+}
+
+a:hover{
+color: orange;
+}
+
+div {
+width: 300px;
+height: 300px;
+}
+
+.color:hover  {
+
+background: #ffffcc; 
+}
+
+#nuke {
+width: 150px;
+height:150px;	
+margin-left: 500px;
+}
+
+#drop {
+width: 150px;
+height:150px;
+margin-left: 0px;
+}
+
+canvas {
+background-image: url("") ;
+border-style: solid;
+border-color: gold;
+width: 181px;
+height: 250px;
+margin-left: -900px;
+}
+
+#myface {
+ margin-left: 500px;
+ margin-top: -310px;
+ text-align: center;
+ font-style: italic;
+ font-size: 30px;
+}
+
+#myPages {
+margin-left: 557px;
+border-left: ridge;
+border-top: ridge;
+margin-top: 4px;
+}
+
+#me {
+ margin-left: 860px;
+ margin-top: -293px;
+ text-align: center;
+ font-style: italic;
+ border-right: ridge;
+ border-top: ridge;
+ 
+ 
+}
+
+.top {
+font-size: 80px;
+font-family: roman numerial;
+text-align: right;
+background-color: orange;
+height: 100px;
+padding-right:200px;
+padding-left:100px;
+padding-bottom: 100px;
+margin-bottom: 100px;
+margin-left: -300px;
+padding-right: 900px;
+padding-left: 600px;
+margin-top: -150px;
+padding-top: 100px;
+}
+
+p {
+color: orange;
+width: 280px;
+height: 50px;	
+margin-top: -30px;
+margin-left: 90px;
+font-family: Josefin Slab;
+font-size: 40px;
+}
+
+#snapchat {
+margin-top: -520px;
+margin-bottom: -335px;
+margin-left: 960px; 	
+border-radius: 70px;
+height: 50px;
+width: 50px;
+}
+
+#contact {
+margin-left: 860px;
+border-right: ridge;
+border-bottom: ridge;
+margin-top: -323px;
+}
+
+#contact:hover {
+	background-color: #ffffcc;
+}
+ #language {
+ 	margin-top: -100px;
+ margin-left: 557px;
+ border-left: ridge;
+ border-bottom: ridge;
+ 
+ }
+ #language:hover {
+background-color:#ffffcc;
+ }
+
+#dot {
+	margin-left: 600px;
+}
+#tweet {
+	height: 50px;
+	width: 50px;
+	margin-left: 700px;
+	margin-top: 60px;
+}
+
+#github {
+	height: 50px;
+	width: 100px;
+	margin-left: 55px;
+}
+
