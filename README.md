@@ -1,0 +1,2 @@
+# staticwebsite
+all my projects
